@@ -1,0 +1,14 @@
+{
+    "name": "colormodule",
+    "version": "1.0.0",
+    "description": "This is a test of color with fs file system",
+    "main": "app.js",
+    "scripts": {
+      "start": "app.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "chalk": "^4.1.2"
+    }
+}
